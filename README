@@ -1,3 +1,7 @@
+!pip install requests, dnspython, bs4, whois, BeautifulSoup
+
+
+
 Chef'd custom Url- Forensics {' portal_logins=&pages,whois_@.com_beautifulSoup' }
 
 This script utilizes beautiful soup to parse and locate information on customized requests. 
