@@ -1,0 +1,7 @@
+Chef'd custom Url- Forensics {' portal_logins=&pages,whois_@.com_beautifulSoup' }
+
+This script utilizes beautiful soup to parse and locate information on customized requests. 
+its a quick start script for a forensics build.
+
+Reliable, clean output and easy to use.
+Try it out!!
